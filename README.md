@@ -11,4 +11,4 @@ Dia 1:
 -En el archivo x estuvimos trabajando con las bibliotecas panda. M5 - 10 - Pandas.ipynb 
 
 -En los archivos de spacex estuvimos haciendo una practica como si estuvieramos en la empresa,
-se divide en 2 partes la de codigo y otra mas orientada a las graficas
+se divide en 2 partes la de codigo y otra mas orientada a las graficas.
