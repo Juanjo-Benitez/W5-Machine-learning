@@ -8,5 +8,7 @@ Dia 1:
 
 -En el archivo 03 hemos estado trabajando con los bucles iterativos. M5 - 03 - Bucles.ipynb
 
+-En el archivo x estuvimos trabajando con las bibliotecas panda. M5 - 10 - Pandas.ipynb 
+
 -En los archivos de spacex estuvimos haciendo una practica como si estuvieramos en la empresa,
 se divide en 2 partes la de codigo y otra mas orientada a las graficas
